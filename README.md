@@ -4,8 +4,6 @@
 <img align= "right" alt="coding"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-1610&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-1610" /> </p>
 
-- 🔭 I’m currently working on **Heart diseases Prediction**
-
 - 🌱 I’m currently learning **dsa, .NET, Cloud Computing**
 
 - 💬 Ask me about **c++,webdev,data Science, cloud computing**
