@@ -2,10 +2,10 @@
 
 <img align= "right" alt="coding"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🔭 I’m currently working on .NET, Cloud Computing<br>
-🤝 I’m looking for help with Cloud Computing<br>
-🌱 I’m currently learning DSA<br>
-💬 Ask me about C++, WebDev, Data Science, Cloud Computing<br>
+🔭 I’m currently working on GEN AI projects<br>
+🤝 I’m looking for help with AI Agents<br>
+🌱 I’m currently learning AI for Developers<br>
+💬 Ask me about C++, WebDev, Data Science, Cloud Computing, GenAI<br>
 📫How to reach me sahiltiwari.work@gmail.com
 
 [![](https://visitcount.itsvg.in/api?id=sahil-1610&icon=0&color=0)](https://visitcount.itsvg.in) 
